@@ -6,7 +6,7 @@ Um conversor de moedas simples e funcional feito com **HTML**, **CSS** e **JavaS
 
 ## 🌐 Deploy no GitHub Pages
 
-👉 **[Acesse o projeto online aqui](https://nokkxn.github.io/Conversor-de-Moedas/)**  
+👉 **[Acesse o projeto online aqui](https://nokkxn.github.io/Conversor-moedas/)**  
 
 *(Substitua o link acima pelo seu real do GitHub Pages após publicar.)*
 
