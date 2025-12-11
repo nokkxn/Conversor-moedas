@@ -1,5 +1,8 @@
 # 💱 Currency Converter
 
+### 🔗 Live Demo  
+https://nokkxn.github.io/currency-converter/
+
 A simple and responsive currency converter built with JavaScript. It uses real-time exchange rates to convert values between different currencies.
 
 ## 🚀 Features
